@@ -1,0 +1,32 @@
+.desproducto{    
+    background-color: gray;    
+    width: 220;    
+    padding: 20px 16px;    
+    border-style: 23;}
+
+.desproducto_imagen{    
+    border-radius: 12px;    
+    display: block;    
+    margin: auto;        
+}
+
+.desproductoN_Nombre{
+    margin-top: 14px;
+    font-size: 14px;
+    text-align: center;
+    color:blue
+}
+
+.desproducto_detalle{    
+    display: flex;    
+    margin-top: 16px;    
+    justify-content: space-between;    
+    color:brown
+}
+
+.desproducto_PrecioAnterior{    
+    text-decoration: line-through;
+}
+
+.desproducto_NuevoPrecio{
+    font-weight: bold;}

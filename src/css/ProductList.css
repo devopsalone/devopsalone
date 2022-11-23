@@ -1,0 +1,23 @@
+.SeccionProduct{
+    background-color: #ff9a0b;
+    height: 100px;
+    width: 100%;
+    float: left;
+    color: white;
+}
+
+.SeccionProduct1{
+    font-style: oblique;
+    justify-content: center;
+    background-color: cadetblue;
+}
+
+body{
+    background: rgb(61, 8, 206);
+}
+
+.contenedorProductos{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+}
